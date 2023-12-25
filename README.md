@@ -11,7 +11,7 @@ Search Functionality: Quickly retrieve specific todos with the powerful search f
 
 ChatGPT Summarization: Leverage ChatGPT to effortlessly summarize user data and todos, providing valuable insights at your fingertips.
 
-Tools and Technologies
+Tools and Technologies   
 Next.js: Modern web applications made easy.
 
 Appwrite: Secure and scalable backend service serving as the database powerhouse.
