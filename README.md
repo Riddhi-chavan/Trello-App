@@ -48,6 +48,8 @@ Demo
 
 Watch the Trello-App in action. 
 
+https://github.com/Riddhi-chavan/Trello-App/assets/130183432/a8331a47-3bc8-4675-b385-cbba3765ab4f
+
 Explore the features, discover the possibilities, and stay organized like never before. For any feedback or issues, open a GitHub issue.
 
 Happy task managing! 🚀
