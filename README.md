@@ -4,6 +4,7 @@ Trello-App is your go-to solution for efficient task management. With intuitive 
 
 
 Features
+
 Drag-and-Drop Columns: Seamlessly move tasks between columns—Todo, In Progress, and Done—making task management a breeze.
 
 Search Functionality: Quickly retrieve specific todos with the powerful search feature, ensuring you stay organized even as your task list grows.
